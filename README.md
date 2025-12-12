@@ -1,6 +1,6 @@
 **Hi! 👋**
 
-## Some of my other projects
+## Some of my other projects (See top projects in the pinned section)
 
 - [onnxruntime-easy](https://github.com/justinchuby/onnxruntime-easy): Simplified APIs for onnxruntime to allow you to call an ONNX model like a Python function.
 - [lintrunner-adapters](https://github.com/justinchuby/lintrunner-adapters): Adapters and tools for lintrunner. Also available as a GitHub action: [lintrunner-action](https://github.com/justinchuby/lintrunner-action)
