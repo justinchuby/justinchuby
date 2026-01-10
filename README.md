@@ -19,5 +19,6 @@
 - [onnx-meetup-2024](https://github.com/justinchuby/onnx-meetup-2024)
 - [onnx-meetup-2025](https://github.com/justinchuby/onnx-meetup-2025)
 - [PyTorch Conference 2025](https://github.com/justinchuby/pytorch-conference-2025)
+- [(2026) torch.onnx APIs and Architecture](https://github.com/justinchuby/talk-torch-onnx-apis-architecture)
 
 [![Justin's GitHub stats](https://github-readme-stats.vercel.app/api?username=justinchuby&count_private=true&show_icons=true)](https://github.com/justinchuby)
