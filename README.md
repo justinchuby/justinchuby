@@ -2,6 +2,7 @@
 
 ## Some of my other projects (See top projects in the pinned section)
 
+- [onnx-shape-inference](https://github.com/justinchuby/onnx-shape-inference): Symbolic shape inference for ONNX using sympy.
 - [onnxruntime-easy](https://github.com/justinchuby/onnxruntime-easy): Simplified APIs for onnxruntime to allow you to call an ONNX model like a Python function.
 - [lintrunner-adapters](https://github.com/justinchuby/lintrunner-adapters): Adapters and tools for lintrunner. Also available as a GitHub action: [lintrunner-action](https://github.com/justinchuby/lintrunner-action)
 - [torch-code-tracing](https://github.com/justinchuby/torch-code-tracing): Code trace your PyTorch model and understand its execution.
