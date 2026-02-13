@@ -4,7 +4,7 @@
 
 - [lintrunner-adapters](https://github.com/justinchuby/lintrunner-adapters): Adapters and tools for lintrunner. Also available as a GitHub action: [lintrunner-action](https://github.com/justinchuby/lintrunner-action)
 - [onnx-shape-inference](https://github.com/justinchuby/onnx-shape-inference): Symbolic shape inference for ONNX using sympy.
-- [https://github.com/justinchuby/onnx-doctor]: Linter for ONNX models
+- [onnx-doctor](https://github.com/justinchuby/onnx-doctor): Linter for ONNX models
 - [onnxruntime-easy](https://github.com/justinchuby/onnxruntime-easy): Simplified APIs for onnxruntime to allow you to call an ONNX model like a Python function.
 - [torch-code-tracing](https://github.com/justinchuby/torch-code-tracing): Code trace your PyTorch model and understand its execution.
 - [clang-format-black](https://github.com/justinchuby/clang-format-black): A clang-format config that mimics Python's black formatter style.
