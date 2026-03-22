@@ -4,7 +4,16 @@
 
 [Flightdeck](https://github.com/justinchuby/flightdeck) is an orchestration layer for AI coding agents. Works with GitHub Copilot, Claude API, Gemini CLI, Codex, and more.
 
-## Some of my other projects (See top projects in the pinned section)
+## Projects I contribute to (pinned)
+
+- [ONNX](https://github.com/onnx/onnx)
+- [PyTorch](https://github.com/pytorch/pytorch)
+- [ONNX IR](https://github.com/onnx/ir-py)
+- [ONNX Script](https://github.com/microsoft/onnxscript)
+- [ONNX Adapter for Model Explorer](https://github.com/justinchuby/model-explorer-onnx)
+- [ONNX Safetensors](https://github.com/justinchuby/onnx-safetensors)
+
+## Some of my other projects
 
 - [lintrunner-adapters](https://github.com/justinchuby/lintrunner-adapters): Adapters and tools for lintrunner. Also available as a GitHub action: [lintrunner-action](https://github.com/justinchuby/lintrunner-action)
 - [onnx-shape-inference](https://github.com/justinchuby/onnx-shape-inference): Symbolic shape inference for ONNX using sympy.
