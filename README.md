@@ -1,4 +1,8 @@
-**Hi! 👋**
+**Hi! This is Justin 👋**
+
+## Flightdeck - Your AI software engineering team
+
+[Flightdeck](https://github.com/justinchuby/flightdeck) is an orchestration layer for AI coding agents. Works with GitHub Copilot, Claude API, Gemini CLI, Codex, and more.
 
 ## Some of my other projects (See top projects in the pinned section)
 
