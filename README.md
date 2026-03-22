@@ -4,7 +4,7 @@
 
 [Flightdeck](https://github.com/justinchuby/flightdeck) is an orchestration layer for AI coding agents. Works with GitHub Copilot, Claude API, Gemini CLI, Codex, and more.
 
-## Projects I contribute to (pinned)
+## Additional projects I contribute to (pinned)
 
 - [ONNX](https://github.com/onnx/onnx)
 - [PyTorch](https://github.com/pytorch/pytorch)
