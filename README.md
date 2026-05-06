@@ -15,6 +15,7 @@
 
 ## Some of my other projects
 
+- [GitHub Attention Set](https://github.com/justinchuby/github-attention-set): Code review Attention Sets for GitHub.
 - [lintrunner-adapters](https://github.com/justinchuby/lintrunner-adapters): Adapters and tools for lintrunner. Also available as a GitHub action: [lintrunner-action](https://github.com/justinchuby/lintrunner-action)
 - [onnx-shape-inference](https://github.com/justinchuby/onnx-shape-inference): Symbolic shape inference for ONNX using sympy.
 - [onnx-doctor](https://github.com/justinchuby/onnx-doctor): Linter for ONNX models
