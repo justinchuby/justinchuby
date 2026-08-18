@@ -12,12 +12,12 @@
 - [ONNX Script](https://github.com/microsoft/onnxscript)
 - [ONNX Adapter for Model Explorer](https://github.com/justinchuby/model-explorer-onnx)
 - [ONNX Safetensors](https://github.com/justinchuby/onnx-safetensors)
-
-## Some of my other projects
-
 - [onnxruntime-mlx](https://github.com/justinchuby/onnxruntime-mlx): Fast MLX execution provider for ONNX Runtime on MacOS.
 - [onnx-genai](https://github.com/justinchuby/onnx-genai): Prototype of the next runtime for ONNX, in Rust.
 - [mobius](https://github.com/onnxruntime/mobius): Convert any model to ONNX (with the help of AI).
+
+## Some of my other projects
+
 - [Web Praat](https://github.com/justinchuby/web-praat): Praat as a web app.
 - [GitHub Attention Set](https://github.com/justinchuby/github-attention-set): Code review Attention Sets for GitHub.
 - [lintrunner-adapters](https://github.com/justinchuby/lintrunner-adapters): Adapters and tools for lintrunner. Also available as a GitHub action: [lintrunner-action](https://github.com/justinchuby/lintrunner-action)
