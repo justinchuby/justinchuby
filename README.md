@@ -15,6 +15,9 @@
 
 ## Some of my other projects
 
+- [onnxruntime-mlx](https://github.com/justinchuby/onnxruntime-mlx): Fast MLX execution provider for ONNX Runtime on MacOS.
+- [onnx-genai](https://github.com/justinchuby/onnx-genai): Prototype of the next runtime for ONNX, in Rust.
+- [mobius](https://github.com/onnxruntime/mobius): Convert any model to ONNX (with the help of AI).
 - [Web Praat](https://github.com/justinchuby/web-praat): Praat as a web app.
 - [GitHub Attention Set](https://github.com/justinchuby/github-attention-set): Code review Attention Sets for GitHub.
 - [lintrunner-adapters](https://github.com/justinchuby/lintrunner-adapters): Adapters and tools for lintrunner. Also available as a GitHub action: [lintrunner-action](https://github.com/justinchuby/lintrunner-action)
@@ -37,5 +40,6 @@
 - [onnx-meetup-2025](https://github.com/justinchuby/onnx-meetup-2025)
 - [PyTorch Conference 2025](https://github.com/justinchuby/pytorch-conference-2025)
 - [torch.onnx APIs and Architecture (Jan 2026)](https://github.com/justinchuby/talk-torch-onnx-apis-architecture)
+- [onnx-meetup-2026](https://github.com/justinchuby/talk-mobius)
 
 [![Justin's GitHub stats](https://github-readme-stats.vercel.app/api?username=justinchuby&count_private=true&show_icons=true)](https://github.com/justinchuby)
