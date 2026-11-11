@@ -18,6 +18,7 @@
 
 ## Some of my other projects
 
+- [onnax](https://github.com/justinchuby/onnax): JAX-like auto-diff for ONNX.
 - [Web Praat](https://github.com/justinchuby/web-praat): Praat as a web app.
 - [GitHub Attention Set](https://github.com/justinchuby/github-attention-set): Code review Attention Sets for GitHub.
 - [lintrunner-adapters](https://github.com/justinchuby/lintrunner-adapters): Adapters and tools for lintrunner. Also available as a GitHub action: [lintrunner-action](https://github.com/justinchuby/lintrunner-action)
